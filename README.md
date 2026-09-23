@@ -1,6 +1,6 @@
 # GC Content Demo
 
-![tests](https://github.com/YOUR-USERNAME/gc-content-demo/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/sahanya7/gc-content-demo/actions/workflows/tests.yml/badge.svg)
 
 A tiny bioinformatics script that reads a FASTA file and reports each
 sequence's length and GC content, used to demonstrate GitHub Actions.
