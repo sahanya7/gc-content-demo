@@ -1,4 +1,4 @@
-#demo edit for class
+
 """Tiny FASTA toolkit used to demo GitHub Actions."""
 import sys
 
