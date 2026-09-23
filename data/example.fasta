@@ -1,0 +1,9 @@
+>seq1 all GC
+GGCCGGCC
+>seq2 half GC
+ATGCATGC
+>seq3 no GC
+ATATATAT
+>seq4 multi-line
+ATGCGC
+GCATAT
